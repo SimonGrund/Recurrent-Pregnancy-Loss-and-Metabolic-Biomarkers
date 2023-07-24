@@ -1,0 +1,81 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 0,
+                "path": "~/Documents/Upwork/COPL_Marie_Louise/Backup/Code/Smoking_habits.R",
+                "line_number": 50,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 50,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 1,
+                "path": "~/Documents/Upwork/COPL_Marie_Louise/Backup/Code/Supplementary_table_1.R",
+                "line_number": 9,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 9,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 3,
+                "path": "~/Documents/Upwork/COPL_Marie_Louise/Backup/Code/Main_script.R",
+                "line_number": 8,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 8,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 6,
+                "path": "~/Documents/Upwork/COPL_Marie_Louise/Backup/Code/Biomarkers_association_with_controls_and_cases.R",
+                "line_number": 9,
+                "function_steps": "",
+                "function_name": "run_all",
+                "state": 2,
+                "editor_state": 2,
+                "editor_line_number": 9,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 0,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 8,
+                "path": "~/Documents/Upwork/COPL_Marie_Louise/Backup/Code/Supplementary_table_2.R",
+                "line_number": 84,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 84,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
